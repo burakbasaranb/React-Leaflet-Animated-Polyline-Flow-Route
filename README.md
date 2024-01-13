@@ -12,7 +12,7 @@ Moreover, this code demonstrates how to effortlessly create a polyline and effor
 
 ## Usage
 
-To leverage this code, ensure that you have `react-leaflet` and `arrowheads` properly installed within your project. Simply copy the code and tailor it to suit your specific requirements. Utilize the in-code comments as a guide to understand each step and tailor the map and arrowhead properties to your liking.
+To leverage this code, ensure that you have `react-leaflet`, `arrowheads` and `Leaflet.PolylineDecorator` properly installed within your project. Simply copy the code and tailor it to suit your specific requirements. Utilize the in-code comments as a guide to understand each step and tailor the map and arrowhead properties to your liking.
 
 No API keys are required for the maps. They can be used with various map providers, including Yandex and Google. The TileLayer layers for the maps have been added on the OpenStreetMap.
 
