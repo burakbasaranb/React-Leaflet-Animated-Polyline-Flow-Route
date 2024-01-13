@@ -20,6 +20,7 @@ No API keys are required for the maps. They can be used with various map provide
 
 - [react-leaflet](https://react-leaflet.js.org/)
 - [arrowheads GitHub repository](https://github.com/slutske22/react-leaflet-arrowheads)
+- [Leaflet.PolylineDecorator GitHub repository](https://github.com/bbecquet/Leaflet.PolylineDecorator)
 
 Feel free to explore, modify, and seamlessly integrate the provided code into your projects. If you encounter any issues or have further questions, don't hesitate to seek assistance.
 
