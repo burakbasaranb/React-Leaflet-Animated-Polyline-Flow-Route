@@ -1,18 +1,20 @@
 # React-Leaflet-Animated-Polyline-Flow-Route
- 
-Discover a powerful example code showcasing the integration of `react-leaflet` library and the `arrowheads` plugin. This code is designed to seamlessly work with both Yandex and Google maps.
+
+There are two polyline inside the example and two icons flows the polyline as animated.
+
+Discover a powerful example code showcasing the integration of `react-leaflet` library, the `arrowheads` plugin, and `leaflet-polyline-decorator`. This code is designed to seamlessly work with both Yandex and Google maps.
 
 ## Description
 
-Experience the ultimate combination of `react-leaflet` and the `arrowheads` library, enabling you to display visually appealing arrowheads on your maps. The `react-leaflet` library provides a convenient React wrapper for Leaflet, a widely-used JavaScript library for creating interactive and customizable maps. The `arrowheads` plugin extends the functionality of `react-leaflet` by introducing support for eye-catching arrowheads on polylines.
+Experience the ultimate combination of `react-leaflet` and the `arrowheads` library, enabling you to display visually appealing arrowheads on your maps. The `react-leaflet` library provides a convenient React wrapper for Leaflet, a widely-used JavaScript library for creating interactive and customizable maps. The `arrowheads` plugin extends the functionality of `react-leaflet` by introducing support for eye-catching arrowheads on polylines. Additionally, the `leaflet-polyline-decorator` library is incorporated to enhance the visualization of the flowing route.
 
 This exemplary code includes all the necessary dependencies and imports, along with a well-structured setup for the map component. Dive into the code to learn how to create a map instance, define the initial view, and effortlessly add a tile layer sourced from either Yandex or Google maps.
 
-Moreover, this code demonstrates how to effortlessly create a polyline and effortlessly apply arrowheads to it using the `arrowheads` plugin. Take advantage of the provided customization options such as arrow size, color, and position to craft visually stunning arrowheads that align with your design preferences.
+Moreover, this code demonstrates how to effortlessly create a polyline and apply arrowheads to it using the `arrowheads` plugin and `leaflet-polyline-decorator`. Take advantage of the provided customization options such as arrow size, color, and position to craft visually stunning arrowheads that align with your design preferences.
 
 ## Usage
 
-To leverage this code, ensure that you have `react-leaflet`, `arrowheads` and `Leaflet.PolylineDecorator` properly installed within your project. Simply copy the code and tailor it to suit your specific requirements. Utilize the in-code comments as a guide to understand each step and tailor the map and arrowhead properties to your liking.
+To leverage this code, ensure that you have `react-leaflet`, `arrowheads`, and `Leaflet.PolylineDecorator` properly installed within your project. Simply copy the code and tailor it to suit your specific requirements. Utilize the in-code comments as a guide to understand each step and tailor the map, arrowhead, and polyline decorator properties to your liking.
 
 No API keys are required for the maps. They can be used with various map providers, including Yandex and Google. The TileLayer layers for the maps have been added on the OpenStreetMap.
 
